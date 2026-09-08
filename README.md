@@ -53,4 +53,6 @@ O código-fonte é `Passthru.dc.html`. O `index.html` é a versão compilada em 
 
 ## Licença
 
-MIT.
+PolyForm Noncommercial 1.0.0 — uso livre para fins não comerciais, mantendo os créditos. Uso comercial exige licença separada, negociada com o autor. Veja `LICENSE.md`.
+
+Criado por Danilo Lira. Contato para uso comercial: daniloliracontato@hotmail.com
